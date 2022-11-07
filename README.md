@@ -1,6 +1,9 @@
 # Writing-Good-Alt-Text
 A collection of guidelines found across the web for properly describing an image in words
 
+## Ever a Work in Progress
+This document does not claim to be comprehensive, and it is open to improvement. Under the license listed above, you are welcome to fork and modify it, print it or use it. Pull requests are welcome.
+
 ## Rationale
 Simply put, not every visitor to a web page or your social media post are using their eyes to see it! This includes more than people who are blind; there are many other forms of disabilities that reduce the clarity of a person's eyesight. Yet web pages should be usable to all people, regardless of their abilities.
 
@@ -71,7 +74,7 @@ Side notes, because lawyers:
 | ![Headshot of Cicely Tyson](examples/Cicely_Tyson_47327457231_300px.jpg) | Not enough context: <br>`headshot of Ms. Tyson` <br><br>**Better:**<br>`Headshot of Cicely Tyson` <br><br>…But over-described: <br>`Headshot of Cicely Tyson from the shoulders up smiling in an embroidered top with a low-cut neckline.` |
 | ![Headshot of an unidentified woman smiling casually as she holds up a 10-inch knife](examples/pexels-14117.jpg) | Not enough context: <br>`Humerous headshot of Jane` <br><br>**Better:**<br>`Headshot of Jane Doe smiling casually as she holds up a 10-inch knife` <br><br>…But over-described: <br>`Headshot of Jane Doe with cute cropped bangs, bright red lipstick, and a simple blouse while she mischeviously holds up a butcher knife, her head cocked to one side.` |
 
-- *Photo of Ms. Tyson by John Mathew Smith & celebrity-photos.com from Laurel, MD, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0), via Wikimedia Commons*
+- *Note: the photo of Ms. Tyson is by John Mathew Smith & celebrity-photos.com from Laurel, MD, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0), via Wikimedia Commons.*
 
 
 ### 6. The context matters!
@@ -95,9 +98,11 @@ When a photograph has handwriting on it, or if the image has words baked into it
 | …OR, direct the reader where they can get the full transcript |
 | `A parchment document from the US Supreme Court in 1895 refers to Homer Plessy as a Plaintiff against Judge Ferguson of the Criminal District Court of Orleans Parish. A full transcript of this image is provided on this page.` &nbsp;/&nbsp; `in the subtweets of this thread.` |
 
+- Note: this image is courtesy of the [US National Archives](https://www.archives.gov/historical-docs/todays-doc/index.html?dod-date=518). Records of the Supreme Court of the United States; Record Group 267; Plessy v. Ferguson, 163, #15248; *Plessy vs. Ferguson,* Judgement, Decided May 18, 1896.
+
 | Example #2 | 
 | ----- | 
 | ![test](examples/carte-de-viste.jpg) |
-| `Headshot of an unknown woman appears on the yellowed paper of a carte de viste. No year is given but the bottom of the card reads: Shackell &amp; Clauss, 828 &amp; 830 Third Ave., Near 51st Street, N.Y.` |
+| `Headshot of an unknown woman appears on the yellowed paper of a carte de viste. No year is given but the bottom of the card reads: Shackell & Clauss, 828 & 830 Third Ave., Near 51st Street, N.Y.` |
 
-- Image courtesy of the US [National Archives](https://www.archives.gov/historical-docs/todays-doc/index.html?dod-date=518). Records of the Supreme Court of the United States; Record Group 267; Plessy v. Ferguson, 163, #15248; *Plessy vs. Ferguson,* Judgement, Decided May 18, 1896.
+
