@@ -49,8 +49,8 @@ Alt Text should try to communicate the same experience that you wanted a sighted
 
 | Example | Alt text |
 | ----- | ----- |
-| ![Harry Truman smiling as he holds a copy of the Chicago Daily Tribune](examples/truman.jpg) | Not enough context: <br>`The President holds up a newspaper.` <br><br>**Better:**<br><br>`Harry Truman smiling as he holds a copy of the Chicago Daily Tribune with a bold headline ‘Dewey Defeats Truman’` |
-| ![A 2006 cover of Ms. Magazine centers a Latina woman with a gasoline pump nozzle pointed at her head, almost like a gun](examples/ms_magazine_cover_2006_300px.jpg) | Not enough context: <br>`The cover of Ms. Magazine` <br><br>**Better:**<br><br>`A 2006 cover of Ms. Magazine centers a Latina woman with a gasoline pump nozzle pointed at her head, almost like a gun. The largest headline reads: CRUDE AWAKENING - How U.S. war policies sell out women in favor of Big Oil` |
+| ![Harry Truman smiling as he holds a copy of the Chicago Daily Tribune](examples/truman.jpg) | Not enough context: <br>`The President holds up a newspaper.` <br><br>**Better:**<br>`Harry Truman smiling as he holds a copy of the Chicago Daily Tribune with a bold headline ‘Dewey Defeats Truman’` |
+| ![A 2006 cover of Ms. Magazine centers a Latina woman with a gasoline pump nozzle pointed at her head, almost like a gun](examples/ms_magazine_cover_2006_300px.jpg) | Not enough context: <br>`The cover of Ms. Magazine` <br><br>**Better:**<br>`A 2006 cover of Ms. Magazine centers a Latina woman with a gasoline pump nozzle pointed at her head, almost like a gun. The largest headline reads: CRUDE AWAKENING - How U.S. war policies sell out women in favor of Big Oil` |
 
 
 Side notes, because lawyers:
@@ -66,8 +66,8 @@ Side notes, because lawyers:
 
 | Example | Alt text |
 | ----- | ----- | 
-| ![Headshot of Cicely Tyson](examples/Cicely_Tyson_47327457231_300px.jpg) | Not enough context: <br>`headshot of Ms. Tyson` <br><br>**Better:**<br><br>`Headshot of Cicely Tyson`  <br>Over-described: <br>`Headshot of Cicely Tyson from the shoulders up smiling in an embroidered top with a low-cut neckline.` |
-| ![Headshot of an unidentified woman smiling casually as she holds up a 10-inch knife](examples/pexels-valeria-boltneva-14117.jpg) | Not enough context: <br>`Humerous headshot of Jane` <br><br>**Better:**<br><br>`Headshot of Jane Doe smiling casually as she holds up a 10-inch knife`  <br>Over-described: <br>`Headshot of Jane Doe with cute cropped bangs, bright red lipstick, and a simple blouse while she mischeviously holds up a butcher knife, her head cocked to one side.` |
+| ![Headshot of Cicely Tyson](examples/Cicely_Tyson_47327457231_300px.jpg) | Not enough context: <br>`headshot of Ms. Tyson` <br><br>**Better:**<br>`Headshot of Cicely Tyson` <br><br>Over-described: <br>`Headshot of Cicely Tyson from the shoulders up smiling in an embroidered top with a low-cut neckline.` |
+| ![Headshot of an unidentified woman smiling casually as she holds up a 10-inch knife](examples/pexels-valeria-boltneva-14117.jpg) | Not enough context: <br>`Humerous headshot of Jane` <br><br>**Better:**<br>`Headshot of Jane Doe smiling casually as she holds up a 10-inch knife` <br><br>Over-described: <br>`Headshot of Jane Doe with cute cropped bangs, bright red lipstick, and a simple blouse while she mischeviously holds up a butcher knife, her head cocked to one side.` |
 
 - *Photo of Ms. Tyson by John Mathew Smith & celebrity-photos.com from Laurel, MD, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0), via Wikimedia Commons*
 - *Photo of woman with knife by [Valeria Boltneva](https://www.pexels.com/photo/smiling-woman-holding-knife-14117/)*
