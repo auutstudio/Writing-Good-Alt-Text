@@ -34,5 +34,8 @@ For example, don’t write Alt Text for the cool pattern used in the background 
 
 But, if the same image were a thumbnail on a site for buying wallpaper, then it does need Alt Text:
 
+| Example | Alt text |
+| ----- | ----- |
 | ![A pattern of white inverted on black, in alternating interlocking shapes of concave and convex arcs](examples/geom-pattern-1.jpg) | `A pattern of white inverted on black, in alternating interlocking shapes of concave and convex arcs` |
+
 
