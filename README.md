@@ -87,6 +87,7 @@ So there’s no single ‘right’ way to compose the Alt Text. Consider this sa
 Generally speaking, you need to transcribe *all* the words, because a non-sighted person deserves to obtain the same information from the image as a sighted person. But apply this guideline within reason. (For example, you would not transcribe the smaller, minor headlines on the newspaper that Harry Truman is holding. On the marketing website in #6, the specific brand names are not really important.)
 
 | Example | 
+| ----- | 
 | ![test](examples/plessy-v-ferguson-m.jpg) |
 | `A weathered parchment document reads the following: Supreme Court of the United States, No. 210, October Term, 1895. Homer Adolph Plessy, Plaintiff in Error, vs. J.H. Ferguson, Judge of Section 'A' Criminal District Court for the Parish of Orleans. In Error to the Supreme Court of the State of Louisiana. This cause came on to be heard on the transcript of the record from the Supreme Court of the State of Louisiana, and was argued by counsel. On consideration whereof, It is now here ordered and adjudged by this Court that the judgement of the said Supreme Court, in this cause, be, and the same is hereby, affirmed with costs. Per M. Justice Brown, May 18, 1896. Dissenting: M. Justice Harlan.` |
 | OR, direct the reader where they can get the transcript |
