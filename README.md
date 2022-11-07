@@ -47,12 +47,10 @@ But, if the same image were a thumbnail on a site for buying wallpaper, then it 
 ### 4. Use the general rule of: Object • Action • Context
 Alt Text should try to communicate the same experience that you wanted a sighted person to get. So it depends on the context for why the image is there. Here are some examples:
 
-| Not enough context: | Better: |
+| Example | Alt text |
 | ----- | ----- |
-| ![Harry Truman smiling as he holds a copy of the Chicago Daily Tribune](examples/truman.jpg) | ![the identical image is repeated](examples/truman.jpg)  |
-| `The President holds up a newspaper.` | `Harry Truman smiling as he holds a copy of the Chicago Daily Tribune with a bold headline ‘Dewey Defeats Truman’` |
-| ![A 2006 cover of Ms. Magazine centers a Latina woman with a gasoline pump nozzle pointed at her head, almost like a gun](examples/ms_magazine_cover_2006_300px.jpg) | ![the identical image is repeated](examples/ms_magazine_cover_2006_300px.jpg)  |
-| `The cover of Ms. Magazine` | `A 2006 cover of Ms. Magazine centers a Latina woman with a gasoline pump nozzle pointed at her head, almost like a gun. The largest headline reads: CRUDE AWAKENING - How U.S. war policies sell out women in favor of Big Oil` |
+| ![Harry Truman smiling as he holds a copy of the Chicago Daily Tribune](examples/truman.jpg) | Not enough context: <br>`The President holds up a newspaper.` <br>Better: <br>`Harry Truman smiling as he holds a copy of the Chicago Daily Tribune with a bold headline ‘Dewey Defeats Truman’` |
+| ![A 2006 cover of Ms. Magazine centers a Latina woman with a gasoline pump nozzle pointed at her head, almost like a gun](examples/ms_magazine_cover_2006_300px.jpg) | Not enough context: <br>`The cover of Ms. Magazine` <br>Better: <br>`A 2006 cover of Ms. Magazine centers a Latina woman with a gasoline pump nozzle pointed at her head, almost like a gun. The largest headline reads: CRUDE AWAKENING - How U.S. war policies sell out women in favor of Big Oil` |
 
 
 Side notes, because lawyers:
@@ -66,12 +64,10 @@ Side notes, because lawyers:
 3. If the person is **doing something**, describe it:  e.g. holding something, pointing into the crowd, or sitting in front of a particular background that communicates visual information.
 4. **Don't over-describe** the person. Don't mention their clothing, hair, accessories, etc., unless it is truly communicating important info about the context here.
 
-| Not enough context: | Better: | Over-described: |
-| ----- | ----- | ----- |
-| ![Headshot of Cicely Tyson](examples/Cicely_Tyson_47327457231_300px.jpg) |![the identical image is repeated](examples/Cicely_Tyson_47327457231_300px.jpg)  | ![the identical image is repeated again](examples/Cicely_Tyson_47327457231_300px.jpg)  |
-| `headshot of Ms. Tyson` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| `Headshot of Cicely Tyson` &nbsp;&nbsp;&nbsp;| `Headshot of Cicely Tyson from the shoulders up smiling in an embroidered top with a low-cut neckline.` |
-| ![Headshot of an unidentified woman smiling casually as she holds up a 10-inch knife](examples/pexels-valeria-boltneva-14117.jpg) |![the identical image is repeated](examples/pexels-valeria-boltneva-14117.jpg)  | ![the identical image is repeated again](examples/pexels-valeria-boltneva-14117.jpg)  |
-| `Humerous headshot of Jane` | `Headshot of Jane Doe smiling casually as she holds up a 10-inch knife` | `Headshot of Jane Doe with cute cropped bangs, bright red lipstick, and a simple blouse while she mischeviously holds up a butcher knife, her head cocked to one side.` |
+| Example | Alt text |
+| ----- | ----- | 
+| ![Headshot of Cicely Tyson](examples/Cicely_Tyson_47327457231_300px.jpg) | Not enough context: <br>`headshot of Ms. Tyson` <br>Better: <br>`Headshot of Cicely Tyson`  <br>Over-described: <br>`Headshot of Cicely Tyson from the shoulders up smiling in an embroidered top with a low-cut neckline.` |
+| ![Headshot of an unidentified woman smiling casually as she holds up a 10-inch knife](examples/pexels-valeria-boltneva-14117.jpg) | Not enough context: <br>`Humerous headshot of Jane` <br>Better: <br>`Headshot of Jane Doe smiling casually as she holds up a 10-inch knife`  <br>Over-described: <br>`Headshot of Jane Doe with cute cropped bangs, bright red lipstick, and a simple blouse while she mischeviously holds up a butcher knife, her head cocked to one side.` |
 
 - *Photo of Ms. Tyson by John Mathew Smith & celebrity-photos.com from Laurel, MD, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0), via Wikimedia Commons*
 - *Photo of woman with knife by [Valeria Boltneva](https://www.pexels.com/photo/smiling-woman-holding-knife-14117/)*
