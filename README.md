@@ -49,8 +49,8 @@ Alt Text should try to communicate the same experience that you wanted a sighted
 
 | Example | Alt text |
 | ----- | ----- |
-| ![Harry Truman smiling as he holds a copy of the Chicago Daily Tribune](examples/truman.jpg) | Not enough context: <br>`The President holds up a newspaper.` <br><span style="color:#197118">**Better:**</span> <br>`Harry Truman smiling as he holds a copy of the Chicago Daily Tribune with a bold headline ‘Dewey Defeats Truman’` |
-| ![A 2006 cover of Ms. Magazine centers a Latina woman with a gasoline pump nozzle pointed at her head, almost like a gun](examples/ms_magazine_cover_2006_300px.jpg) | Not enough context: <br>`The cover of Ms. Magazine` <br><span style="color:#197118">**Better:**</span> <br>`A 2006 cover of Ms. Magazine centers a Latina woman with a gasoline pump nozzle pointed at her head, almost like a gun. The largest headline reads: CRUDE AWAKENING - How U.S. war policies sell out women in favor of Big Oil` |
+| ![Harry Truman smiling as he holds a copy of the Chicago Daily Tribune](examples/truman.jpg) | Not enough context: <br>`The President holds up a newspaper.` <br><span style="color:#197118;">**Better:**</span> <br>`Harry Truman smiling as he holds a copy of the Chicago Daily Tribune with a bold headline ‘Dewey Defeats Truman’` |
+| ![A 2006 cover of Ms. Magazine centers a Latina woman with a gasoline pump nozzle pointed at her head, almost like a gun](examples/ms_magazine_cover_2006_300px.jpg) | Not enough context: <br>`The cover of Ms. Magazine` <br><span style="color:greem">**Better:**</span> <br>`A 2006 cover of Ms. Magazine centers a Latina woman with a gasoline pump nozzle pointed at her head, almost like a gun. The largest headline reads: CRUDE AWAKENING - How U.S. war policies sell out women in favor of Big Oil` |
 
 
 Side notes, because lawyers:
