@@ -68,19 +68,30 @@ Side notes, because lawyers:
 
 | Example | Alt text |
 | ----- | ----- | 
-| ![Headshot of Cicely Tyson](examples/Cicely_Tyson_47327457231_300px.jpg) | Not enough context: <br>`headshot of Ms. Tyson` <br><br>**Better:**<br>`Headshot of Cicely Tyson` <br><br>Over-described: <br>`Headshot of Cicely Tyson from the shoulders up smiling in an embroidered top with a low-cut neckline.` |
-| ![Headshot of an unidentified woman smiling casually as she holds up a 10-inch knife](examples/pexels-14117.jpg) | Not enough context: <br>`Humerous headshot of Jane` <br><br>**Better:**<br>`Headshot of Jane Doe smiling casually as she holds up a 10-inch knife` <br><br>Over-described: <br>`Headshot of Jane Doe with cute cropped bangs, bright red lipstick, and a simple blouse while she mischeviously holds up a butcher knife, her head cocked to one side.` |
+| ![Headshot of Cicely Tyson](examples/Cicely_Tyson_47327457231_300px.jpg) | Not enough context: <br>`headshot of Ms. Tyson` <br><br>**Better:**<br>`Headshot of Cicely Tyson` <br><br>…But over-described: <br>`Headshot of Cicely Tyson from the shoulders up smiling in an embroidered top with a low-cut neckline.` |
+| ![Headshot of an unidentified woman smiling casually as she holds up a 10-inch knife](examples/pexels-14117.jpg) | Not enough context: <br>`Humerous headshot of Jane` <br><br>**Better:**<br>`Headshot of Jane Doe smiling casually as she holds up a 10-inch knife` <br><br>…But over-described: <br>`Headshot of Jane Doe with cute cropped bangs, bright red lipstick, and a simple blouse while she mischeviously holds up a butcher knife, her head cocked to one side.` |
 
 - *Photo of Ms. Tyson by John Mathew Smith & celebrity-photos.com from Laurel, MD, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0), via Wikimedia Commons*
 
 
 ### 6. The context matters!
-So there’s no single ‘right’ way to compose the Alt Text. 
+So there’s no single ‘right’ way to compose the Alt Text. Consider this same image on two different websites:
+
 | Example | On this kind of website | Alt text |
 | ----- | ----- | ----- | 
 | ![empty stadium bleachers against a blue sky](examples/pexels-10287236.jpg) | Essay about the COVID pandemic | `bleachers sit entirely empty inside a massive stadium` |
-| ![the same image is repeated here](examples/pexels-10287236.jpg) | Marketing opportunities | `crowning the upper section of stadium bleachers are two billboards that read with corporate names and logos` |
+| ![the same image is repeated here](examples/pexels-10287236.jpg) | Marketing opportunities | `crowning the upper section of stadium bleachers are two billboards emblazoned with corporate names and logos` |
+
+
+### 7. For images that have words in them
+Generally speaking, you need to transcribe *all* the words, because a non-sighted person deserves to obtain the same information from the image as a sighted person. But apply this guideline within reason. (For example, you would not transcribe the smaller, minor headlines on the newspaper that Harry Truman is holding. On the marketing website in #6, the specific brand names are not really important.)
+
+| Example | 
+| ![test](examples/plessy-v-ferguson-m.jpg) |
+| `A weathered parchment document reads the following: Supreme Court of the United States, No. 210, October Term, 1895. Homer Adolph Plessy, Plaintiff in Error, vs. J.H. Ferguson, Judge of Section 'A' Criminal District Court for the Parish of Orleans. In Error to the Supreme Court of the State of Louisiana. This cause came on to be heard on the transcript of the record from the Supreme Court of the State of Louisiana, and was argued by counsel. On consideration whereof, It is now here ordered and adjudged by this Court that the judgement of the said Supreme Court, in this cause, be, and the same is hereby, affirmed with costs. Per M. Justice Brown, May 18, 1896. Dissenting: M. Justice Harlan.` |
+| OR, direct the reader where they can get the transcript |
+| `A parchment document from the US Supreme Court in 1895 refers to Homer Plessy as a Plaintiff against Judge Ferguson of the Criminal District Court of Orleans Parish. A full transcript of this image is provided on this page.`/`in the subtweets of this thread.` |
 
 
 
-
+- Image courtesy of the US [National Archives](https://www.archives.gov/historical-docs/todays-doc/index.html?dod-date=518). Records of the Supreme Court of the United States; Record Group 267; Plessy v. Ferguson, 163, #15248; *Plessy vs. Ferguson,* Judgement, Decided May 18, 1896.
