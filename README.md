@@ -58,3 +58,20 @@ Alt Text should try to communicate the same experience that you wanted a sighted
 Side notes, because lawyers:
 - *The image above of Truman, [whose copyright status seems disputed](https://commons.wikimedia.org/wiki/File:Dewey_Defeats_Truman.jpg), is used here under the principle of Fair Use for an educational purpose.*
 - *The image above of Ms. Magazine is licensed under Creative Commons CC-BY-SA 4.0 as confirmed by [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ms._magazine_Cover_-_Summer_2006.jpg).*
+
+
+### 5. Use these general rules for a headshot:
+1. **Say that it's a headshot.** This already implies that the person is dressed professionally and is (probably) smiling.
+2. Include the person’s **full name** in the Alt Text.
+3. If the person is **doing something**, describe it:  e.g. holding something, pointing into the crowd, or sitting in front of a particular background that communicates visual information.
+4. **Don't over-describe** the person. Don't mention their clothing, hair, accessories, etc., unless it is truly communicating important info about the context here.
+
+| Not enough context: | Better: | Over-described: |
+| ----- | ----- | ----- |
+| ![Headshot of Cicely Tyson](examples/Cicely_Tyson_47327457231_300px.jpg) |![the identical image is repeated](examples/Cicely_Tyson_47327457231_300px.jpg)  | ![the identical image is repeated again](examples/Cicely_Tyson_47327457231_300px.jpg)  |
+| `headshot of Ms. Tyson` | `Headshot of Cicely Tyson` | `Headshot of Cicely Tyson from the shoulders up smiling in an embroidered top with a low-cut neckline.` |
+| ![Headshot of an unidentified woman smiling casually as she holds up a 10-inch knife](examples/pexels-valeria-boltneva-14117.jpg) |![the identical image is repeated](examples/pexels-valeria-boltneva-14117t.jpg)  | ![the identical image is repeated again](examples/pexels-valeria-boltneva-14117.jpg)  |
+| `Humerous headshot of Jane` | `Headshot of Jane Doe smiling casually as she holds up a 10-inch knife` | `Headshot of Jane Doe with cute cropped bangs, bright red lipstick, and a simple blouse while she mischeviously holds up a butcher knife, her head cocked to one side.` |
+
+- *Photo of Ms. Tyson by John Mathew Smith & celebrity-photos.com from Laurel, MD, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0), via Wikimedia Commons*
+- *Photo of woman with knife by [Valeria Boltneva](https://www.pexels.com/photo/smiling-woman-holding-knife-14117/)*
