@@ -51,10 +51,10 @@ Alt Text should try to communicate the same experience that you wanted a sighted
 | ----- | ----- |
 | ![Harry Truman smiling as he holds a copy of the Chicago Daily Tribune](examples/truman.jpg) | ![the identical image is repeated](examples/truman.jpg)  |
 | `The President holds up a newspaper.` | `Harry Truman smiling as he holds a copy of the Chicago Daily Tribune with a bold headline ‘Dewey Defeats Truman’` |
-| ![A 2006 cover of Ms. Magazine centers a Latina woman with a gasoline pump nozzle pointed at her head, almost like a gun](ms_magazine_cover_2006_300px.jpg) | ![the identical image is repeated](ms_magazine_cover_2006_300px.jpg)  |
+| ![A 2006 cover of Ms. Magazine centers a Latina woman with a gasoline pump nozzle pointed at her head, almost like a gun](examples/ms_magazine_cover_2006_300px.jpg) | ![the identical image is repeated](examples/ms_magazine_cover_2006_300px.jpg)  |
 | `The cover of Ms. Magazine` | `A 2006 cover of Ms. Magazine centers a Latina woman with a gasoline pump nozzle pointed at her head, almost like a gun. The largest headline reads: CRUDE AWAKENING - How U.S. war policies sell out women in favor of Big Oil` |
 
 
-*The image above of Truman, [whose copyright status seems disputed](https://commons.wikimedia.org/wiki/File:Dewey_Defeats_Truman.jpg), is used here under the principle of Fair Use for an educational purpose.*
-
-*The image above of Ms. Magazine is licensed under Creative Commons CC-BY-SA 4.0 as confirmed by [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ms._magazine_Cover_-_Summer_2006.jpg).*
+Side notes, because lawyers:
+- *The image above of Truman, [whose copyright status seems disputed](https://commons.wikimedia.org/wiki/File:Dewey_Defeats_Truman.jpg), is used here under the principle of Fair Use for an educational purpose.*
+- *The image above of Ms. Magazine is licensed under Creative Commons CC-BY-SA 4.0 as confirmed by [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ms._magazine_Cover_-_Summer_2006.jpg).*
