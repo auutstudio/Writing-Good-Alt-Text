@@ -27,6 +27,8 @@ Just say what it is:  `A green velvet dress.`
 *[ARGH!](https://en.wikipedia.org/wiki/The_dress)*
 - `The iconic viral photo of a woman's dress with washed-out colors, which has been argued incessantly as to whether it appears blue or gold.`
 
+Avoid the abbreviation B&amp;W, instead write it out for the screen reader software to read: `water-stained black and white photo of my grandmother`
+
 See, sometimes you may decide to break a guideline, if doing so will better assist the non-sighted user to glean the equivalent, relevant information from the image.
 
 
@@ -67,7 +69,18 @@ Side notes, because lawyers:
 | Example | Alt text |
 | ----- | ----- | 
 | ![Headshot of Cicely Tyson](examples/Cicely_Tyson_47327457231_300px.jpg) | Not enough context: <br>`headshot of Ms. Tyson` <br><br>**Better:**<br>`Headshot of Cicely Tyson` <br><br>Over-described: <br>`Headshot of Cicely Tyson from the shoulders up smiling in an embroidered top with a low-cut neckline.` |
-| ![Headshot of an unidentified woman smiling casually as she holds up a 10-inch knife](examples/pexels-valeria-boltneva-14117.jpg) | Not enough context: <br>`Humerous headshot of Jane` <br><br>**Better:**<br>`Headshot of Jane Doe smiling casually as she holds up a 10-inch knife` <br><br>Over-described: <br>`Headshot of Jane Doe with cute cropped bangs, bright red lipstick, and a simple blouse while she mischeviously holds up a butcher knife, her head cocked to one side.` |
+| ![Headshot of an unidentified woman smiling casually as she holds up a 10-inch knife](examples/pexels-14117.jpg) | Not enough context: <br>`Humerous headshot of Jane` <br><br>**Better:**<br>`Headshot of Jane Doe smiling casually as she holds up a 10-inch knife` <br><br>Over-described: <br>`Headshot of Jane Doe with cute cropped bangs, bright red lipstick, and a simple blouse while she mischeviously holds up a butcher knife, her head cocked to one side.` |
 
 - *Photo of Ms. Tyson by John Mathew Smith & celebrity-photos.com from Laurel, MD, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0), via Wikimedia Commons*
-- *Photo of woman with knife by [Valeria Boltneva](https://www.pexels.com/photo/smiling-woman-holding-knife-14117/)*
+
+
+### 6. The context matters!
+So there’s no single ‘right’ way to compose the Alt Text. 
+| Example | On this kind of website | Alt text |
+| ----- | ----- | ----- | 
+| ![empty stadium bleachers against a blue sky](examples/pexels-10287236.jpg) | Essay about the COVID pandemic | `bleachers sit entirely empty inside a massive stadium` |
+| ![the same image is repeated here](examples/pexels-10287236.jpg) | Marketing opportunities | `crowning the upper section of stadium bleachers are two billboards that read with corporate names and logos` |
+
+
+
+
