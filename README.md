@@ -2,7 +2,7 @@
 A collection of guidelines found across the web for properly describing an image in words
 
 ## This doc is not definitive
-This document does not claim to be comprehensive, and it is open to improvement. Under the license listed above, you are welcome to fork and modify it, print it or use it. Pull requests are welcome.
+This document does not claim to be comprehensive, and it is open to improvement. Under the license listed above, you are welcome to fork and modify it, print it or otherwise adapt it to your purposes. Pull requests are welcome.
 
 ## Rationale
 Simply put, not every visitor to a web page or your social media post are using their eyes to see it! This includes more than people who are blind; there are many other forms of disabilities that reduce the clarity of a person's eyesight. Yet web pages should be usable to all people, regardless of their abilities.
