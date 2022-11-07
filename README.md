@@ -11,3 +11,18 @@ Simply put, not every visitor to a web page or your social media post are using 
 
 **Alt Text also benefits sighted people!** Alt Text is indexed by search engines, so that (say, Google) can suggest the right image you’re searching for. Alt Text displays on the page if the image somehow fails to load, as in this example of a missing image:
 ![screenshot demonstrates how a missing image renders on a webpage. An small icon of a broken image with some text below it which reads: Tourists pose for pictures while touching the foot of the John Harvard Statute.](examples/image_not_found.jpg)
+
+## Guidelines for good Alt Text
+### 1. Keep things short and descriptive – something about the length of a tweet.
+The problem with being over-wordy is that it takes up a lot of time for the non-sighted person to listen through it. Already, perusing a webpage by sound takes MUCH longer than by sight. So non-sighted users can get frustrated when content creators make it especially slow for them to get their work done.
+
+### 2. In general, don't start with the words “image of…” or “photo of…”
+Just say what it is:  `A green velvet dress.`
+- `A blue and black dress.`
+*Ahem.* 
+- `A white and gold dress.`
+*[ARGH!](https://en.wikipedia.org/wiki/The_dress)*
+- `The iconic viral photo of a woman's dress with washed-out colors, which has been argued incessantly as to whether it appears blue or gold.`
+
+See, sometimes you may decide to break a guideline, if doing so will better assist the non-sighted user to glean the equivalent, relevant information from the image.
+
