@@ -26,13 +26,13 @@ Just say what it is:  `A green velvet dress.`
 
 See, sometimes you may decide to break a guideline, if doing so will better assist the non-sighted user to glean the equivalent, relevant information from the image.
 
-### 3. An image that is purely decorative does ==not== need Alt Text.
-For example, don’t write Alt Text for the cool pattern used in the background of a webpage.
+### 3. An image that is purely decorative does *not* need Alt Text.
+For example, don’t write Alt Text for the cool pattern used in the background of a webpage. The WCAG standard for a decorative image is **null** Alt Text. In code, this is:  `alt=""`
+
 ![mockup of a generic website in a browser. The words are blurred out as sample text.](examples/geom-pattern-as-bg.jpg)
-The WCAG standard for a decorative image is **null** Alt Text. In code, this is:  `alt=""`
+
 
 But, if the same image were a thumbnail on a site for buying wallpaper, then it does need Alt Text:
-![A pattern of white inverted on black, in alternating interlocking shapes of concave and convex arcs](examples/geom-pattern-1.jpg)
 
-`A pattern of white inverted on black, in alternating interlocking shapes of concave and convex arcs`
+| ![A pattern of white inverted on black, in alternating interlocking shapes of concave and convex arcs](examples/geom-pattern-1.jpg) | `A pattern of white inverted on black, in alternating interlocking shapes of concave and convex arcs` |
 
