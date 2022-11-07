@@ -69,8 +69,8 @@ Side notes, because lawyers:
 | Not enough context: | Better: | Over-described: |
 | ----- | ----- | ----- |
 | ![Headshot of Cicely Tyson](examples/Cicely_Tyson_47327457231_300px.jpg) |![the identical image is repeated](examples/Cicely_Tyson_47327457231_300px.jpg)  | ![the identical image is repeated again](examples/Cicely_Tyson_47327457231_300px.jpg)  |
-| `headshot of Ms. Tyson` | `Headshot of Cicely Tyson` | `Headshot of Cicely Tyson from the shoulders up smiling in an embroidered top with a low-cut neckline.` |
-| ![Headshot of an unidentified woman smiling casually as she holds up a 10-inch knife](examples/pexels-valeria-boltneva-14117.jpg) |![the identical image is repeated](examples/pexels-valeria-boltneva-14117t.jpg)  | ![the identical image is repeated again](examples/pexels-valeria-boltneva-14117.jpg)  |
+| `headshot of Ms. Tyson` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| `Headshot of Cicely Tyson` &nbsp;&nbsp;&nbsp;| `Headshot of Cicely Tyson from the shoulders up smiling in an embroidered top with a low-cut neckline.` |
+| ![Headshot of an unidentified woman smiling casually as she holds up a 10-inch knife](examples/pexels-valeria-boltneva-14117.jpg) |![the identical image is repeated](examples/pexels-valeria-boltneva-14117.jpg)  | ![the identical image is repeated again](examples/pexels-valeria-boltneva-14117.jpg)  |
 | `Humerous headshot of Jane` | `Headshot of Jane Doe smiling casually as she holds up a 10-inch knife` | `Headshot of Jane Doe with cute cropped bangs, bright red lipstick, and a simple blouse while she mischeviously holds up a butcher knife, her head cocked to one side.` |
 
 - *Photo of Ms. Tyson by John Mathew Smith & celebrity-photos.com from Laurel, MD, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0), via Wikimedia Commons*
