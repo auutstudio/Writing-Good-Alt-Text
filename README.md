@@ -56,7 +56,7 @@ Alt Text should try to communicate the same experience that you wanted a sighted
 
 
 Side notes, because lawyers:
-- *The image above of Truman, [whose copyright status seems disputed](https://commons.wikimedia.org/wiki/File:Dewey_Defeats_Truman.jpg), is used here under the principle of Fair Use for an educational purpose.*
+- *The image above of Truman, [whose copyright status seems disputed](https://commons.wikimedia.org/wiki/File:Dewey_Defeats_Truman.jpg), is used here greatly scaled down under the principle of Fair Use for an educational purpose.*
 - *The image above of Ms. Magazine is licensed under Creative Commons CC-BY-SA 4.0 as confirmed by [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ms._magazine_Cover_-_Summer_2006.jpg).*
 
 
@@ -86,13 +86,18 @@ So there’s no single ‘right’ way to compose the Alt Text. Consider this sa
 ### 7. For images that have words in them
 Generally speaking, you need to transcribe *all* the words, because a non-sighted person deserves to obtain the same information from the image as a sighted person. But apply this guideline within reason. (For example, you would not transcribe the smaller, minor headlines on the newspaper that Harry Truman is holding. On the marketing website in #6, the specific brand names are not really important.)
 
-| Example | 
+When a photograph has handwriting on it, or if the image has words baked into its pixels, you should convey that in the Alt Text.
+
+| Example #1 | 
 | ----- | 
-| ![test](examples/plessy-v-ferguson-m.jpg) |
+| ![A parchment document from the US Supreme Court in 1895 refers to Homer Plessy as a Plaintiff against Judge Ferguson of the Criminal District Court of Orleans Parish. A full transcript of this image is given in the following paragraph.](examples/plessy-v-ferguson-m.jpg) |
 | `A weathered parchment document reads the following: Supreme Court of the United States, No. 210, October Term, 1895. Homer Adolph Plessy, Plaintiff in Error, vs. J.H. Ferguson, Judge of Section 'A' Criminal District Court for the Parish of Orleans. In Error to the Supreme Court of the State of Louisiana. This cause came on to be heard on the transcript of the record from the Supreme Court of the State of Louisiana, and was argued by counsel. On consideration whereof, It is now here ordered and adjudged by this Court that the judgement of the said Supreme Court, in this cause, be, and the same is hereby, affirmed with costs. Per M. Justice Brown, May 18, 1896. Dissenting: M. Justice Harlan.` |
-| OR, direct the reader where they can get the transcript |
-| `A parchment document from the US Supreme Court in 1895 refers to Homer Plessy as a Plaintiff against Judge Ferguson of the Criminal District Court of Orleans Parish. A full transcript of this image is provided on this page.`/`in the subtweets of this thread.` |
+| …OR, direct the reader where they can get the full transcript |
+| `A parchment document from the US Supreme Court in 1895 refers to Homer Plessy as a Plaintiff against Judge Ferguson of the Criminal District Court of Orleans Parish. A full transcript of this image is provided on this page.` &nbsp;/&nbsp; `in the subtweets of this thread.` |
 
-
+| Example #2 | 
+| ----- | 
+| ![test](examples/carte-de-viste.jpg) |
+| `Headshot of an unknown woman appears on the yellowed paper of a carte de viste. No year is given but the bottom of the card reads: Shackell &amp; Clauss, 828 &amp; 830 Third Ave., Near 51st Street, N.Y.` |
 
 - Image courtesy of the US [National Archives](https://www.archives.gov/historical-docs/todays-doc/index.html?dod-date=518). Records of the Supreme Court of the United States; Record Group 267; Plessy v. Ferguson, 163, #15248; *Plessy vs. Ferguson,* Judgement, Decided May 18, 1896.
