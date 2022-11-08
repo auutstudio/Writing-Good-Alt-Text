@@ -2,7 +2,7 @@
 A collection of guidelines found across the web for properly describing an image in words
 
 ## This doc is not definitive
-This document does not claim to be comprehensive, and it is open to improvement. Under the license listed above, you are welcome to fork and modify it, print it or otherwise adapt it to your purposes. Pull requests are welcome.
+This document does not claim to be comprehensive, and it's open to improvement. Under the license listed above, you are welcome to fork and modify it, print it or otherwise adapt it to your purposes. Pull requests are welcome.
 
 ## Rationale
 Simply put, not every visitor to a web page or your social media post are using their eyes to see it! This includes more than people who are blind; there are many other forms of disabilities that reduce the clarity of a person's eyesight. Yet web pages should be usable to all people, regardless of their abilities.
@@ -12,6 +12,7 @@ This is what is read aloud to non-sighted users by their screen reader software.
 - A web page that does not have Alt Text on every image fails the WCAG Accessibility Guidelines' [first standard (1.1.1)](https://www.boia.org/wcag2/cp/1.1.1).
 - This includes a webpage that is showing a Timeline of social media posts.
 - That means everyone who attaches an image on a social media post should be adding Alt Text to describe that image — *every time.*
+   - On Mastodon, follow either bot [@PleaseCaption@botsin.space](https://botsin.space/@pleasecaption) or [@alt_text@mastodon.social](https://mastodon.social/@alt_text) to get a reminder when you forget.
 
 ### Alt Text also benefits sighted people!
 Alt Text is indexed by search engines, so that (say, Google) can suggest the right image you’re searching for. Alt Text displays on the page if the image somehow fails to load, as in this example of a missing image:
@@ -97,7 +98,7 @@ When a photograph has handwriting on it, or if the image has words baked into it
 | ----- | 
 | ![A parchment document from the US Supreme Court in 1895 refers to Homer Plessy as a Plaintiff against Judge Ferguson of the Criminal District Court of Orleans Parish. A full transcript of this image is given in the following paragraph.](examples/plessy-v-ferguson-m.jpg) |
 | `A weathered parchment document reads the following: Supreme Court of the United States, No. 210, October Term, 1895. Homer Adolph Plessy, Plaintiff in Error, vs. J.H. Ferguson, Judge of Section 'A' Criminal District Court for the Parish of Orleans. In Error to the Supreme Court of the State of Louisiana. This cause came on to be heard on the transcript of the record from the Supreme Court of the State of Louisiana, and was argued by counsel. On consideration whereof, It is now here ordered and adjudged by this Court that the judgement of the said Supreme Court, in this cause, be, and the same is hereby, affirmed with costs. Per M. Justice Brown, May 18, 1896. Dissenting: M. Justice Harlan.` |
-| …OR, notify the reader where they can get the full transcript: |
+| …But honestly, that takes a long time for a screen reader to announce. For a document that long, it would be much better to provide a link on the page to the Full Transcript. Then in Alt Text, notify the reader where they can get the transcript: |
 | `A parchment document from the US Supreme Court in 1895 refers to Homer Plessy as a Plaintiff against Judge Ferguson of the Criminal District Court of Orleans Parish. A full transcript of this image is provided on this page` &nbsp;/&nbsp; `in the subtweets of this thread.` |
 
 - *Note: this image is courtesy of the [US National Archives](https://www.archives.gov/historical-docs/todays-doc/index.html?dod-date=518).* Records of the Supreme Court of the United States; Record Group 267; Plessy v. Ferguson, 163, #15248; *Plessy vs. Ferguson,* Judgement, Decided May 18, 1896.
